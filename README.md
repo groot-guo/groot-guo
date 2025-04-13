@@ -1,10 +1,7 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Groot Guo, a full-time full-stack Golang developer 👨‍💻  🚀</div>  
-  
+----
 
 - 🌱 I’m currently learning AI, Kubetnetes, Envoy, Deno, Rust  
   
